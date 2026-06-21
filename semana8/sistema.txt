@@ -1,0 +1,1 @@
+Conocer esta información es útil para administrar servidores porque permite identificar el sistema operativo utilizado, verificar compatibilidades de software, realizar diagnósticos y confirmar con qué usuario se están ejecutando tareas administrativas
